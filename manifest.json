@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.72]Simple Text Chat",
+        "name": "[1.21.90]Simple Text Chat",
         "description": "",
         "uuid": "f0b25752-6574-15e7-aa47-b52636394fd8",
         "version": [
@@ -31,11 +31,11 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.0.0-beta"
+            "version": "2.1.0-beta"
         },
         {
             "module_name": "@minecraft/server-ui",
-            "version": "2.0.0-beta"
+            "version": "2.1.0-beta"
         }
     ]
 }
