@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.100]Simple Text Chat",
+        "name": "[1.21.111]Simple Text Chat",
         "description": "",
-        "uuid": "0a02f8ac-10dc-4084-8e29-9ec52c9c7b81",
+        "uuid": "0a02f8ac-10dc-9999-8e29-9ec52c9c7b81",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "a65527ae-994f-4e8d-9d1b-a7275b2cab71",
+            "uuid": "a65527ae-994f-4e8d-0d1b-a7275b2cab71",
             "version": [
                 0,
                 1,
@@ -31,7 +31,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.2.0-beta"
+            "version": "2.3.0-beta"
         },
         {
             "module_name": "@minecraft/server-ui",
